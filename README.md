@@ -1,5 +1,3 @@
-# [Expocraft](https://modrinth.com/modpack/expocraft)
-
 ## A Return to the Classics!
 
 For many players, Minecraft has never felt the same as in its golden age. Back then, technology mods were cool, easy to use, and fun to learn.
